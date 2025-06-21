@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishkjha&show_icons=true&theme=radical)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjha950&show_icons=true&theme=radical)
 
 
 ## 📌 Featured Projects
