@@ -9,7 +9,7 @@
 - 🌱 Exploring Dart and Flutter for cross-platform development
 - 🧠 Learning Data Structures & Algorithms to sharpen my problem-solving skills
 - 💬 Ask me about React, Node.js, MongoDB, or anything web dev!
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ashish-kumar-jha-b47955288) | [Portfolio](https://my-portfolio-one-nu-68.vercel.app)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ashish-kumar-jha-b47955288/) | [Portfolio](https://my-portfolio-one-nu-68.vercel.app)
 
 
 ## 🛠️ Tech Stack
