@@ -26,19 +26,6 @@
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjha950&show_icons=true&theme=radical)
 
 
-## 📌 Featured Projects
-
-### 🛒 E-commerce Platform
-A full-featured online shopping platform with dynamic product rendering, responsive UI using Tailwind CSS, and secure authentication. Built with the MERN stack and integrated with a custom rating and pricing system.
-
-### 📝 Blog App
-A sleek blogging platform allowing users to create, edit, and share posts. Includes user authentication, markdown support, and a clean, theme-based design. Perfect for tech bloggers and content creators.
-
-### 🔗 URL Shortener
-A lightweight tool to generate shortened links with analytics. Features include custom slugs, copy-to-clipboard, and a simple interface. Built with Node.js, Express, MongoDB, and React for seamless performance.
-
-
-
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate or just chat about tech!
