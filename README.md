@@ -1,94 +1,93 @@
-# Ashish Kumar Jha
+# 👋 Ashish Kumar Jha  
 
-**MERN Stack Developer | Backend-Focused | Fresher Open to Opportunities**
+🚀 **MERN Stack Developer | Backend-Focused | Fresher Open to Opportunities**
 
-I build full-stack web applications with a strong focus on backend development — REST APIs, authentication, authorization, and database design. I enjoy working close to real-world problems rather than demo-level projects.
+I build full-stack web applications with a strong focus on backend development — REST APIs, authentication, authorization, and database design. I prefer working on real-world problems over demo-level projects.
 
-Currently looking for a **junior / fresher MERN or backend developer role**, open to starting with a learning-focused package.
-
----
-
-## What I Do
-
-- Design and build **RESTful APIs** using Node.js and Express
-- Implement **JWT-based authentication** and **role-based authorization**
-- Structure backend code using **controllers, routes, and middleware**
-- Design MongoDB schemas with Mongoose
-- Integrate frontend and backend using Axios
-- Build admin dashboards and protected workflows
+Actively looking for a **Junior / Fresher MERN or Backend Developer role**. Open to starting with a learning-focused package.
 
 ---
 
-## Tech Stack
+## 🧠 What I Do
 
-**Frontend**
-- React.js
-- HTML, CSS
-- Tailwind CSS, Bootstrap
-
-**Backend**
-- Node.js
-- Express.js
-- REST API Design
-- JWT Authentication
-- Authorization Middleware
-
-**Database**
-- MongoDB
-- Mongoose
-
-**Tools**
-- Git & GitHub
-- Postman
-- Axios
-- Vercel, Render, Railway
-
-**Languages**
-- JavaScript (ES6+)
-- Java
-- SQL
+- 🔐 Build **secure REST APIs** using Node.js & Express  
+- 🪪 Implement **JWT authentication** & **role-based authorization**  
+- 🧩 Structure backend using **controllers, routes & middleware**  
+- 🗄️ Design MongoDB schemas with **Mongoose**  
+- 🔄 Integrate frontend & backend using **Axios**  
+- 📊 Develop **admin dashboards** and protected workflows  
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Super60 Educational Management System
-Full-stack platform for managing students, batches, and admin operations.
+**🎨 Frontend**
+- React.js  
+- HTML, CSS  
+- Tailwind CSS, Bootstrap  
 
-- JWT authentication with Admin / Student roles
-- Protected APIs and authorization middleware
+**⚙️ Backend**
+- Node.js  
+- Express.js  
+- REST API Design  
+- JWT Authentication  
+
+**🗃️ Database**
+- MongoDB  
+- Mongoose  
+
+**🔧 Tools**
+- Git & GitHub  
+- Postman  
+- Axios  
+- Vercel, Render, Railway  
+
+**💻 Languages**
+- JavaScript (ES6+)  
+- Java  
+- SQL  
+
+---
+
+## 📌 Projects
+
+### 🎓 Super60 Educational Management System
+- JWT-based authentication with **Admin / Student roles**
+- Protected APIs with authorization middleware
 - MongoDB schema design using Mongoose
-- REST APIs for student and batch management
+- REST APIs for student & batch management
 
-### Employment Management System
-Backend-driven employee management system.
-
+### 🧑‍💼 Employment Management System
 - Admin-only protected routes
-- CRUD APIs with Express and MongoDB
+- CRUD APIs using Express & MongoDB
 - Middleware-based authorization
-- Frontend–backend integration using Axios
+- Frontend–backend integration with Axios
 
-### Real-Time Chat Application
-Real-time messaging application using WebSockets.
-
-- Socket.io for real-time communication
-- Backend logic for user connections and messages
+### 💬 Real-Time Chat Application
+- Real-time messaging using **Socket.io**
+- Backend logic for connections & messages
 - MongoDB for message persistence
 - Responsive React UI
 
 ---
 
-## What I’m Looking For
+## 📈 GitHub Stats
 
-- Fresher / Junior MERN or Backend Developer role
-- Hands-on backend work and real production exposure
-- Long-term learning and growth opportunity
-- Open to starting with a **lower package**
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishjha950&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjha950&layout=compact&theme=tokyonight)
 
 ---
 
-## Connect With Me
+## 🎯 What I’m Looking For
 
-- LinkedIn: https://www.linkedin.com/in/ashish-kumar-jha-b47955288/
-- Portfolio: https://my-portfolio-one-nu-68.vercel.app
-- Email: ashishjha97099@gmail.com
+- Fresher / Junior MERN or Backend Developer role  
+- Hands-on backend work & real production exposure  
+- Long-term learning & growth    
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/ashish-kumar-jha-b47955288/  
+- 🌐 Portfolio: https://my-portfolio-one-nu-68.vercel.app  
+- 📧 Email: ashishjha97099@gmail.com  
